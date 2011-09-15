@@ -1,3 +1,2 @@
-lei denem
-echo "lei"
+lei.txt
 
